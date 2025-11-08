@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kame House Blog</title>
+    <link>http://localhost:1313/kame-house-blog/tags/</link>
+    <description>Recent content in Tags on Kame House Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Olá, sou Amorim, mas pode me chamar de Kakaroto!</copyright>
+    <lastBuildDate>Sun, 09 Nov 2025 05:00:33 +0000</lastBuildDate><atom:link href="http://localhost:1313/kame-house-blog/tags/rss.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Auto-Conhecimento</title>
+      <link>http://localhost:1313/kame-house-blog/tags/auto-conhecimento/</link>
+      <pubDate>Sun, 09 Nov 2025 05:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/auto-conhecimento/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Carreira</title>
+      <link>http://localhost:1313/kame-house-blog/tags/carreira/</link>
+      <pubDate>Sun, 09 Nov 2025 05:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/carreira/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vida Pessoal</title>
+      <link>http://localhost:1313/kame-house-blog/tags/vida-pessoal/</link>
+      <pubDate>Sun, 09 Nov 2025 05:00:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/vida-pessoal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design Pattern</title>
+      <link>http://localhost:1313/kame-house-blog/tags/design-pattern/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/design-pattern/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Factory</title>
+      <link>http://localhost:1313/kame-house-blog/tags/factory/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/factory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/kame-house-blog/tags/python/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

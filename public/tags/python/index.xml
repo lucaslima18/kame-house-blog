@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Kame House Blog</title>
+    <link>http://localhost:1313/kame-house-blog/tags/python/</link>
+    <description>Recent content in Python on Kame House Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Lucas Amorim (Aka: Kakaroto)</copyright>
+    <lastBuildDate>Sat, 08 Nov 2025 04:14:54 -0800</lastBuildDate><atom:link href="http://localhost:1313/kame-house-blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Design patterns com python</title>
+      <link>http://localhost:1313/kame-house-blog/posts/design-patterns-python/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/posts/design-patterns-python/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+    <item>
+      <title>Entendo factory method</title>
+      <link>http://localhost:1313/kame-house-blog/posts/design-patterns-python/factory/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/posts/design-patterns-python/factory/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+    <item>
+      <title>outro teste</title>
+      <link>http://localhost:1313/kame-house-blog/posts/design-patterns-python/outro-copy/</link>
+      <pubDate>Sat, 08 Nov 2025 04:14:54 -0800</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/posts/design-patterns-python/outro-copy/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

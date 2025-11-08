@@ -1,0 +1,6 @@
+[[imports]]
+path = "github.com/nunocoracao/blowfish/v2"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Kame House Blog</title>
+    <link>http://localhost:1313/kame-house-blog/about/</link>
+    <description>Recent content in Abouts on Kame House Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Lucas Amorim (Aka: Kakaroto)</copyright>
+    <atom:link href="http://localhost:1313/kame-house-blog/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>http://localhost:1313/kame-house-blog/about/teste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kame-house-blog/about/teste/</guid>
+      <description>&lt;p&gt;Sou um desenvolvedor especializado em Python e JavaScript, com ampla experiência em diversas áreas do desenvolvimento de software. Ao longo da minha carreira, trabalhei no desenvolvimento de plataformas web, RPA, análise de dados, microsserviços e chatbots. Essas experiências me proporcionaram um conjunto de habilidades técnicas robustas que aplico no meu papel atual como desenvolvedor backend.&lt;/p&gt;
+&lt;p&gt;Estou constantemente me aprimorando e buscando novas formas de expandir meu conhecimento, com o objetivo de me tornar um especialista em desenvolvimento backend.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

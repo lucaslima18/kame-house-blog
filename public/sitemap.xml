@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/personal_blog/</loc>
+    <lastmod>2025-11-09T05:00:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/personal_blog/hello_world/hello_world/</loc>
+    <lastmod>2025-11-09T05:00:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/</loc>
+    <lastmod>2025-11-09T05:00:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/posts/design-patterns-python/</loc>
+    <lastmod>2025-11-08T04:14:54-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/posts/design-patterns-python/factory/factory/</loc>
+    <lastmod>2025-11-08T04:14:54-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/posts/</loc>
+    <lastmod>2025-11-08T04:14:54-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kame-house-blog/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

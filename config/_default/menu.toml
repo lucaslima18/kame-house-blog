@@ -1,0 +1,15 @@
+[[main]]
+  name = "Blog Pessoal"
+  pageRef = "personal_blog"
+  weight = 30
+
+[[main]]
+  name = "Blog Tech"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Sobre mim"
+  pageRef = "about"
+  weight = 30
+

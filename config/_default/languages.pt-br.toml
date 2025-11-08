@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "Kame House Blog"
+
+[params.author]
+name = "Olá, sou Amorim, mas pode me chamar de Kakaroto!"
+image = "img/author.jpg"
+headline = "Por aqui iremos falar um pouco sobre Programação, Python, Tecnologia, Carreira e sobre Esferas do Dragão (Por que não?), venha comigo por este caminho, por um universo de esperança...  e alguns bugs..."
+bio = "Sou desenvolvedor backend com experiência no desenho, implementação e integração de APIs e microsserviços, focado em performance, escalabilidade e boas práticas. Busco evoluir continuamente como especialista na área."
+links = [
+  { linkedin = "https://www.linkedin.com/in/lucas-amorim-b09691173/" },
+  { github = "https://github.com/lucaslima18/" },
+  { rss = "/index.xml" }
+]
